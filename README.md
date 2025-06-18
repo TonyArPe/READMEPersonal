@@ -1,4 +1,4 @@
-# READMEPersonal
+# READMEPERSONAL
 
 # Hola, soy Tony Aragón
 
